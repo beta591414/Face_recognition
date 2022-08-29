@@ -1,0 +1,2 @@
+# Face_recognition
+软件技术基础人脸识别项目，在image文件夹中放入图片即可
